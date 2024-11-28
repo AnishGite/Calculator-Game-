@@ -11,3 +11,7 @@ Features-
 1. Timer to make the game difficult 
 
 2. Progressive levels
+
+Disclaimer-
+
+All the code is made by me but I took refrence and inspiration from Pintrest and Twitter and I also took help of ai in some part of the code.
